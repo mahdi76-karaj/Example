@@ -1,0 +1,1 @@
+list_gheir_mozaj = ["adam bad","bi adab"]
